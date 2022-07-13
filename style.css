@@ -4,18 +4,18 @@
 
 .header {
     background-color: white;
-    height: 180px ;
+    height: 180px;
     width: 100% ;
     color:rgb(247, 247, 67) ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius:15px;
     display: flex;
-    flex-direction: row
+    flex-direction: row;
     
 }
 
 .Texto1{
-    border: 50px solid rgb(247, 247, 67);
+    border:50px solid rgb(247, 247, 67);
     width:60%;
     float:left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
